@@ -1,3 +1,4 @@
 npm run-script build OR npm run-script build
 
-1111
+github pages:
+ https://dizelpizell.github.io/cps-verstka/dist
